@@ -2,8 +2,8 @@ import React from 'react';
 
 function Support() {
     return(
-        <div className='Support'>
-             <h1>support</h1>
+        <div className='support'>
+             <h1>Support</h1>
         </div>
     )    
 }
